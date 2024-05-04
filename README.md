@@ -1,1 +1,1 @@
-# Data-Analysis-Artifacts
+# Data Analysis Artifacts
