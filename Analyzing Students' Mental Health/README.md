@@ -10,7 +10,14 @@ The study found that *international students have a higher risk of mental health
 
 ## Workflow
 
-Explored student data using SQL Queries, then analysed and visualised the data using Pandas DataFrame, Seaborn &  Matplotlib in Jupyter Notebook. 
+Explored student data using SQL Queries, then analysed and visualised the data using Pandas DataFrame, Seaborn &  
+Matplotlib in Jupyter Notebook. 
+
+## Jupyter Notebook 
+
+[Go to Notebook](https://github.com/anilajojo95/data-analysis-artifacts/blob/main/Analyzing%20Students'%20Mental%20Health/notebook.ipynb)
+
+
 
 ## Key Findings
 
