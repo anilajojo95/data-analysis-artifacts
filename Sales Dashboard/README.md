@@ -9,9 +9,9 @@ For strategic decision-making in 2024, Castlery wanted to analyze their US sales
 ## Proposal 
 The Castlery Sales Dashboard offers comprehensive insights into the company's sales performance for the year 2023. Focusing on key performance indicators (KPIs) such as Total Sales, Profit, Quanity Sold and Unique customers, that drive business growth and strategy.
 
-Users can explore sales growth trends broken down by product and region, allowing for a detailed analysis of market performance. Additionally, the dashboard highlights the average sales of high-demand products throughout the year, providing valuable data on consumer preferences and product success.
+Users can explore sales growth trends broken down by product , month and region, allowing for a detailed analysis of market performance. Additionally, the dashboard highlights the average sales of high-demand products throughout the year, providing valuable data on consumer preferences and product success.
 
-[Dashboard](./assets/Screenshot%202024-05-30%20at%205.30.53 PM.png)
+!["Alternative text"](./assets/Screenshot%202024-05-30%20at%205.30.53 PM.png)
 
 ## Tableau Dashboard
 
