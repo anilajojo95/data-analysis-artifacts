@@ -1,6 +1,6 @@
 # Data Analysis Artifacts
 
-This repostory contains my internal projects.
+This repository contains my internal projects for Data Analysis.
 -   Sales Dashboard
 -   Analyzing Internation Students's Mental Health
 
